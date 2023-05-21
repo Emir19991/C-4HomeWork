@@ -1,0 +1,15 @@
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\bin\Debug\net6.0\task_25.exe
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\bin\Debug\net6.0\task_25.deps.json
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\bin\Debug\net6.0\task_25.runtimeconfig.json
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\bin\Debug\net6.0\task_25.dll
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\bin\Debug\net6.0\task_25.pdb
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.csproj.AssemblyReference.cache
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.AssemblyInfoInputs.cache
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.AssemblyInfo.cs
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.csproj.CoreCompileInputs.cache
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.dll
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\refint\task_25.dll
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.pdb
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\task_25.genruntimeconfig.cache
+E:\GeekB\С# HomeWork\HomeWorkC#4\task_25\obj\Debug\net6.0\ref\task_25.dll
